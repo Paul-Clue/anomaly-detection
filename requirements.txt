@@ -4,3 +4,5 @@ matplotlib
 seaborn
 plotly
 imbalanced-learn
+openai
+python-dotenv
